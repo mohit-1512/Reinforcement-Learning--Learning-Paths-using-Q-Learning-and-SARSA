@@ -1,6 +1,6 @@
 # Reinforcement Learning- Learning Paths using Q-Learning and SARSA
 
-Language Used- Java Swings
+Language Used- Java Swing
 -----------------
 Problem Statement:
 -----------------
